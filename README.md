@@ -58,7 +58,7 @@ All models were evaluated using:
 1. Clone this repo or download the notebook.
 2. Install required packages:
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn xgboost lightgbm
+   pip install pandas numpy scikit-learn matplotlib seaborn 
    ```
 3. Run the notebook:
    ```bash
